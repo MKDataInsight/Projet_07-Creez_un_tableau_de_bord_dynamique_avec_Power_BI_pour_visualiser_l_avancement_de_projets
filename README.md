@@ -1,5 +1,5 @@
 # dashboard_suivi_de_projets
-Tableau de bord pour visualiser l'avancement de projets
+Tableau de bord Power BI pour visualiser l'avancement de projets
 
 Objectif :
     
