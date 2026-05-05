@@ -5,7 +5,6 @@
 - [Objectifs et compétences](#objectifs-et-compétences)
 - [Technologies utilisées](#technologies-utilisées)
 - [Structure du projet](#structure-du-projet)
-- [Sources de données](#sources-de-données)
 - [Section auteur](#section-auteur)
 
 ## Scénario
@@ -36,6 +35,7 @@ Le projet est organisé comme suit :
 - **Donnees_initiales** : Données relatives aux projets d'ESNDATA.
 - **Livrables** : Contient le tableau de bord interactif.
 - **Besoins_client.pdf**, **ProductStrategyCanvas.pdf** : Documentation technique pour la gestion de ce projet
+- **_assets_** : Fichiers utiles à la mise en page Github
 
 ## Section auteur
 **Auteur** : MKDataInsight 
